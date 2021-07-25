@@ -1,0 +1,1 @@
+(self.webpackChunkdemo1=self.webpackChunkdemo1||[]).push([[239],{239:(e,o,s)=>{"use strict";s.r(o),s.d(o,{header:()=>c});var a=s(996);console.log("header");const c=a.ZP.component("header")}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkdemo1=self.webpackChunkdemo1||[]).push([[994],{994:(e,o,c)=>{"use strict";c.r(o),c.d(o,{default:()=>n});var s=c(996);console.log("cube::",(0,s.kO)(5));const n=s.ZP.component("footer")}}]);

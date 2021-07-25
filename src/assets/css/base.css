@@ -1,0 +1,9 @@
+.frcc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fs-32 {
+  font-size: 32px;
+}
